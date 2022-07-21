@@ -1,0 +1,36 @@
+.footer {
+    background-color: #222;
+    display: table;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+  }
+  .name {
+    display: inline-block;
+    position: relative;
+    left: 410px;
+    top: -67px;
+    width:400px;
+    height: 100px;
+    display: table-cell;
+    font-size: 15px;
+    padding: 20px 30px 15px;
+    color: white;
+  }
+  
+  a {
+    color: white;
+  }
+  
+ .logobox{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -85px;
+    right: 423px;
+    
+    
+    
+ }
